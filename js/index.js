@@ -6,7 +6,6 @@ const textTitle = 'Mengão Campeão Mundial'
 const title = Title`
     color: red;
     font-size: 60px;
-    lsdfalksjflakjsdfkaj
     ${textTitle}
 `
 
